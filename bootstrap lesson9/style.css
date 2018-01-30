@@ -1,0 +1,18 @@
+#header {
+    font-family: cursive;
+    color: blue;
+    text-align: center;
+}
+
+.index-form,
+.index-table{
+    align-self: center;
+}
+
+.row {
+    text-align: center;
+}
+
+#searchBox {
+    float: right;
+}
